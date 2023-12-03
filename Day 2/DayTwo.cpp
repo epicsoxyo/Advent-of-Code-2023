@@ -4,9 +4,6 @@
 #include <vector>
 #include<array>
 
-// cubes : [R, G, B]
-enum Colour{R, G, B};
-
 std::vector<std::string> GetSubstrings(std::string& str)
 {
     std::vector<std::string> substrings{};
